@@ -1,0 +1,75 @@
+.header h1 {
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.header {
+    justify-content: center;
+}
+
+.contact {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.contact p {
+    font-size: 20px;
+}
+
+.contact a {
+    font-size: 20px;
+    word-spacing: 30px;
+}
+
+.line hr{
+    width: auto;
+    height: 2px;
+    color: grey;
+    background-color: grey;
+}
+#box-1{
+    font-size: 25px;
+}
+#objective {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#box-2{
+    font-size: 25px;
+}
+#experience{
+    font-size: 23px;
+}
+#box-3{
+    font-size: 25px;
+}
+.projects {
+    font-size: 23px;
+}
+#box-4{
+    font-size: 25px;
+}
+.skills {
+    font-size: 23px;
+}
+#box-5{
+    font-size: 25px;
+}
+.certifications {
+    font-size: 23px;
+}
+#box-6{
+    font-size: 25px;
+}
+.additional {
+    font-size: 23px;
+}
+
+#resume{
+    margin:2px;
+}
+
+
+
